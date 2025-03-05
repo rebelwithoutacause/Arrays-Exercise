@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\bin\Debug\net8.0\06Array.Rotation.exe
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\bin\Debug\net8.0\06Array.Rotation.deps.json
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\bin\Debug\net8.0\06Array.Rotation.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\bin\Debug\net8.0\06Array.Rotation.dll
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\bin\Debug\net8.0\06Array.Rotation.pdb
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\obj\Debug\net8.0\06Array.Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\obj\Debug\net8.0\06Array.Rotation.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\obj\Debug\net8.0\06Array.Rotation.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\obj\Debug\net8.0\06Array.Rotation.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\obj\Debug\net8.0\06Array.Rotation.dll
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\obj\Debug\net8.0\refint\06Array.Rotation.dll
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\obj\Debug\net8.0\06Array.Rotation.pdb
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\obj\Debug\net8.0\06Array.Rotation.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\Exercise Arrays\ExercusesArrays\06Array.Rotation\obj\Debug\net8.0\ref\06Array.Rotation.dll
